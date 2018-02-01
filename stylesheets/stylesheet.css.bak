@@ -268,7 +268,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 980px;
+  max-width: 860px;
   padding: 20px 10px;
   margin: 0 auto;
   height:100%; 
@@ -277,7 +277,7 @@ Full-Width Styles
 }
 .inner_Wrap {
   position: relative;
-  max-width: 980px;
+  max-width: 860px;
   padding: 20px 10px;
   margin: 0 auto;
   height:500px; 
@@ -287,14 +287,14 @@ Full-Width Styles
 .left {
 	position: relative;
 	float:left;
-  width: 240px;
+  width: 210px;
  margin-top:10px;
 
 }
 .right {
 	position: relative;
 	float:right;
-  width: 740px;
+  width: 640px;
 
 
 }
